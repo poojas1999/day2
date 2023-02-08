@@ -1,0 +1,11 @@
+a{
+    text-decoration: dotted;
+    cursor: grab;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+}
+h6{
+    text-align: justify;
+}
